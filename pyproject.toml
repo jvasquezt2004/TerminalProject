@@ -1,0 +1,17 @@
+[project]
+name = "terminalproject"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
+    "opencv-python>=4.11.0.86",
+    "roboflow>=1.1.61",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "supervision>=0.25.1",
+    "torch>=2.7.0",
+    "torchvision>=0.22.0",
+]
