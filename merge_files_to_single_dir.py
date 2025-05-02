@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+Script to merge files from a dataset into a single directory structure.
+"""
 import os
 import shutil
 from pathlib import Path

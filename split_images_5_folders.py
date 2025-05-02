@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Script para dividir datasets en partes más pequeñas, para preparar datasets antes de fusionarlos con merge.
+Script para dividir datasets en partes más pequeñas, para preparar datasets antes de fusionarlos con merge. 
+
 
 
 Script to split the city_images folder into 5 parts, with 1000 images each.
